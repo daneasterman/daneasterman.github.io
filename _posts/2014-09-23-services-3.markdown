@@ -1,12 +1,11 @@
 ---
 layout: default
-img: phones.png
+img: citizen-drone.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Citizen Drone
 description: |
-  <p class="lead">This template features the 'Lato' font,
-  part of the <a target="_blank" href="http://www.google.com/fonts">Google
-  Web Font library</a>, as well as <a target="_blank"
-  href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+  <p class="lead">My final individual project was a drone video and map sharing platform born out of my previous experience with drone journalism. One of the main goals was to create a more engaging way to share visual flight information and improve on existing offerings available online.</p>
+
+  <p class="lead">Check out Citizen Drone <a href="https://hidden-castle-3107.herokuapp.com/">here:</a></p>
 
 ---

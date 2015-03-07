@@ -1,13 +1,9 @@
 ---
 layout: default
-img: dog.png
+img: productive-coffee.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Project 2:<br>Productive Coffee
 description: |
-  <p class="lead">Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by <a
-  target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit
-  their website to download some of their awesome, free photoshop
-  actions!</p>
+  <p class="lead">For this project I worked in a team with two others to build a web app to make it easier to find, rate and review coffee shops with facilities like wifi, power sockets and good seating needed to get work done. We used Git and Github heavily to collaborate on the code base.</p>
 
 ---
