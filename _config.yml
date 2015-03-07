@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: ""
+url: https://daneasterman.github.io/
 title: Daniel Easterman
 email: daniel.easterman@gmail.com
-description: > "I am a web developer and former journalist with a deep passion for technology, a keen eye for design and a strong desire to always be learning."
+description: "I am a web developer and former journalist with a deep passion for technology, a keen eye for design and a strong desire to always be learning."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
