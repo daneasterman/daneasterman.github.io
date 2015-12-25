@@ -1,0 +1,13 @@
+---
+title: Dreams
+layout: default
+modal-id: 5
+date: 2014-09-21
+img: 
+thumbnail: 
+alt: image-alt
+category: Web Development
+title: Project 1:<br>The Music Network
+description: Project 5
+
+---

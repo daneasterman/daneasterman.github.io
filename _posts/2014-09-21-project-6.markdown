@@ -1,0 +1,9 @@
+---
+title: New German Landing Page
+layout: default
+modal-id: 6
+img: bookatable-german-site-main.jpg
+thumbnail: bookatable-german-site-thumbnail.jpg
+description: My most ambitious front-end project to date! Currently in the process of overhauling Bookatable's German site with a completely new design using jQuery, Optimizely and CSS. Applying modular design principles as an efficient way to organise my code base. Trello for project management and Git for version control. Wireframes provided in Zeplin.
+
+---

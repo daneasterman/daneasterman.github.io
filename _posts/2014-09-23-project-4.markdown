@@ -1,0 +1,13 @@
+---
+title: Dreams
+layout: default
+modal-id: 4
+date: 2014-09-21
+img: vertical-music-network.jpg
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+category: Web Development
+title: Project 4
+description: Project 4
+
+---
