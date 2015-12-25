@@ -1,0 +1,11 @@
+---
+title: Revamped Image Galleries for UK and Swedish Restaurants
+layout: default
+modal-id: 4
+img: 
+thumbnail: uk-landing-page-layouts-thumbnail.jpg
+alt: image-alt
+category: Web Development
+description: Project 4
+
+---

@@ -1,13 +1,11 @@
 ---
-title: Dreams
+title: New Landing Page Layouts for Bookatable UK
 layout: default
 modal-id: 5
-date: 2014-09-21
-img: 
-thumbnail: 
+img: uk-landing-page-layouts.jpg
+thumbnail: uk-landing-page-layouts-thumbnail.jpg
 alt: image-alt
 category: Web Development
-title: Project 1:<br>The Music Network
-description: Project 5
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora vitae tempore omnis facere dicta quibusdam fugit odio sit cupiditate obcaecati, mollitia doloribus atque in dolores velit accusantium quaerat ratione fugiat.
 
 ---
