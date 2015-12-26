@@ -59,7 +59,7 @@ h5,
 }
 
 .bg-light-gray {
-    background-color: #fff;
+    background-color: #f8f8f8;
 }
 
 .bg-darkest-gray {
@@ -232,8 +232,8 @@ section {
 }
 
 section h2.section-heading {
-    margin-top: 0;
-    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     font-size: 40px;
 }
 
@@ -248,7 +248,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 10px 0;
+        padding: 0  ;
     }
 }
 
@@ -331,7 +331,7 @@ section h3.section-subheading {
 
 @media(min-width:767px) {
     #portfolio .portfolio-item {
-        margin: 25px 0 30px;
+        margin: 0 0 30px;
     }
 }
 

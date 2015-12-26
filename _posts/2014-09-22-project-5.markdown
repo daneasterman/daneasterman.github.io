@@ -1,5 +1,5 @@
 ---
-title: New Landing Page Layouts for Bookatable UK
+title: New Bookatable Germany Site
 layout: default
 modal-id: 5
 img: uk-landing-page-layouts.jpg
