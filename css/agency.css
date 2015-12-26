@@ -18,14 +18,15 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.75;
     text-align: justify;
     margin: 30px 2px 35.5px;
 }
 
 p.large {
-    font-size: 16px;
+    font-size: 18px;
+    color: inherit;
 }
 
 a,
@@ -56,6 +57,12 @@ h5,
 
 .img-centered {
     margin: 0 auto;
+}
+
+@media(min-width:768px) {
+    .col-sm-4 {
+        margin-left: 33%;
+    }
 }
 
 .bg-light-gray {
@@ -244,6 +251,7 @@ section h3.section-subheading {
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
+    color: #777;
 }
 
 @media(min-width:768px) {
@@ -541,7 +549,8 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
+    margin-top: -50px;
+    margin-bottom: 0px;
     text-align: center;
 }
 

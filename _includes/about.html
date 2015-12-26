@@ -1,36 +1,26 @@
-<!-- Team Section -->
-    <section id="team">
+<!-- About Section -->
+    <section id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">About</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Some background about my career so far...</h3>
                 </div>
             </div>
             <div class="row">
-                {% for member in site.people %}
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
-                        <h4>{{ member.name }}</h4>
-                        <p class="text-muted">{{ member.position }}</p>
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="fa fa-{{ network.title }}"></i>
-                                </a>
-                            </li>
-                            {% endfor %}
-
-                        </ul>
+                        <img src="img/about/daniel-easterman-general-assembly-profile.jpg" class="img-responsive img-circle" alt="">
                     </div>
                 </div>
-                {% endfor %}
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                    <p class="large text-muted">I am currently working as a Front End Web Developer for a major online restaurant booking platform.</p>
+                    <p class="large text-muted">Before deciding to switch careers to technology and web development, I was a reporter in London, and worked as a freelance journalist in Israel and the West Bank.</p>
+                    <p class="large text-muted">During the two years I spent split between Tel Aviv and Jerusalem, I became fascinated by how I could use online photography and video to tell stories in more meaningful ways. This led me back to London to study for a masters in Digital Journalism.</p>
+                    <p class="large text-muted">My masters thesis involved using a drone quadcopter to take aerial video in the Highlands of Scotland, which was shortlisted for the 2013 BBC Student Innovation Award. I built my own static HTM5 and CSS3 website to display the work which I found to be tremendously satisfying. This started a chain of events which eventually convinced me to leave journalism and make the full transition towards becoming a web developer.</p>
+                    <p class="large text-muted">In late November 2014 I was lucky enough to take part in a highly intensive 12 week web development course with General Assembly. The course taught me to think as a programmer and use technology to solve real-world problems with technology.</p>
                 </div>
             </div>
         </div>

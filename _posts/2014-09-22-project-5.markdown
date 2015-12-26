@@ -1,9 +1,9 @@
 ---
-title: New Bookatable Germany Site
+title: Landing Page Layouts for Bookatable UK Site
 layout: default
 modal-id: 5
 img: uk-landing-page-layouts.jpg
-thumbnail: uk-landing-page-layouts-thumbnail.jpg
+thumbnail: pure-screen-289.jpg
 alt: image-alt
 category: Web Development
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora vitae tempore omnis facere dicta quibusdam fugit odio sit cupiditate obcaecati, mollitia doloribus atque in dolores velit accusantium quaerat ratione fugiat.
