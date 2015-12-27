@@ -1,11 +1,11 @@
 ---
-title: Image Galleries
+title: Hailo API Integration
 subtitle: Website Development
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: golden.png
-thumbnail: 02-289-gallery.jpg
+modal-id: 4
+date: 2014-07-15
+img: treehouse.png
+thumbnail: 04-289-hailo.jpg
 alt: image-alt
 project-date: April 2014
 client: Bookatable

@@ -4,8 +4,8 @@ subtitle: Website Development
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: bookatable-german-site-main.jpg
-thumbnail: 289-wider-german-thumb.jpg
+img: main-germansite.jpg
+thumbnail: 01-289-german.jpg
 alt: image-alt
 project-date: April 2014
 client: Bookatable

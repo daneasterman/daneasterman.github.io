@@ -1,11 +1,11 @@
 ---
-title: Image Galleries
+title: Yplan Partnership Project
 subtitle: Website Development
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: golden.png
-thumbnail: 02-289-gallery.jpg
+modal-id: 5
+date: 2014-07-14
+img: startup-framework.png
+thumbnail: 05-289-yplan.jpg
 alt: image-alt
 project-date: April 2014
 client: Bookatable
