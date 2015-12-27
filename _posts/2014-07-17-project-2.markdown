@@ -1,0 +1,16 @@
+---
+title: Landing Page Layouts for Bookatable UK Site
+subtitle: Website Development
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: escape.png
+thumbnail: pure-screen-289.jpg
+alt: image-alt
+project-date: April 2014
+client: Bookatable
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
+	
