@@ -4,12 +4,11 @@ subtitle: Graphic Design
 layout: default
 modal-id: 6
 date: 2014-07-13
-img: roundicons.png
+img: main-edit-booking.jpg
 thumbnail: 06-289-edit-booking.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Data analytics and user testing revealed that after booking a restaurant many people simply want to change one or two details about their reservation. Rather than cancelling the booking and starting the whole process again, a shortened edit booking flow might provide a much better user experience. In order to implement this feature I first wrote pure Ruby which made requests to the company's internal SOAP XML API. I then ported over the core Ruby logic into a fully-fledged Rails app with views, models and controllers.
 ---

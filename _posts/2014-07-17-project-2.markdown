@@ -4,12 +4,12 @@ subtitle: Website Development
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: golden.png
+img: 02-main-gallery.jpg
 thumbnail: 02-289-gallery.jpg
 alt: image-alt
 project-date: April 2014
 client: Bookatable
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: I built a brand new image gallery module for Bookatable's UK restaurant pages. Initially we used Optimizely to distribute traffic to the feature on a 50%/50% basis. After two weeks we saw conversions improve by almost 6%, amounting to £15,000 extra revenue per month. As a result we increased the traffic allocation to 95% for the new gallery and rolled it out across Bookatable's Swedish site.
 
 ---

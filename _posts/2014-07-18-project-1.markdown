@@ -4,12 +4,12 @@ subtitle: Website Development
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: main-germansite.jpg
+img: 01-main-germansite.jpg
 thumbnail: 01-289-german.jpg
 alt: image-alt
 project-date: April 2014
 client: Bookatable
 category: Web Development
-description: My most ambitious front end project to date! Currently in the process of overhauling Bookatable's Germany landing page with a completely new design using jQuery, Optimizely and CSS. Applying modular design principles as an efficient way to organise my code base. Trello for project management and Git for version control. Wireframes provided in Zeplin.
+description: My most ambitious front end project to date! Currently in the process of overhauling Bookatable's Germany landing page with jQuery, Optimizely and CSS. I'm applying modular design principles as the most efficient way to organise my code base. I'm also using Trello for project management and Git for version control. The wireframes have been provided in Zeplin.
 
 ---

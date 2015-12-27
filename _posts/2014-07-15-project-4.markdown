@@ -4,12 +4,14 @@ subtitle: Website Development
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
+img: main-hailo.jpg
 thumbnail: 04-289-hailo.jpg
 alt: image-alt
 project-date: April 2014
 client: Bookatable
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: For this project I was tasked with "connecting" Bookatable restaurant data to Hailo's API. I used Ruby to parse (read), loop over JSON and make requests to the API in order to automatically create taxi ordering accounts for 1,500 restaurants. 
+
+
 
 ---

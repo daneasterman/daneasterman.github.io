@@ -4,12 +4,12 @@ subtitle: Website Development
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
+img: 1000-main-yplan.jpg
 thumbnail: 05-289-yplan.jpg
 alt: image-alt
 project-date: April 2014
 client: Bookatable
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The project brief was to add "smart" Yplan banners to Bookatable emails. This meant that when diners received email confirmation of their restaurant booking they would also receive a highly relevant Yplan link showing interesting events near the restaurant and on the same date as the reservation. While the partnership was ultimately not successful on a commercial basis, it enabled me to gain a strong understanding of Bookatable's C# code base and email-sending infrastructure.
 
 ---
