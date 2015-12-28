@@ -28,10 +28,10 @@ h6 {
 
 .intro-header {
     padding-top: 0px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 0px;
+    padding-bottom: 30px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/new-beach-header.jpg) no-repeat center center;
+    background: url(../img/1900-cropped-alcazabar-ver3.jpg) no-repeat center center;
     background-size: cover;
 }
 
