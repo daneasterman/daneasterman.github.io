@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Januray 2016
 client: Bookatable
 category: Web Development
-description: Created complex Google Maps feature for Bookatable’s flagship B2C site with deep and highly customised use of the Google Maps Javascript API. This was achieved in collaboration with the backend engineering team to set up a brand new Bookatable restaurant JSON API for front-end “consumption”..
+description: Implemented complex Google Maps feature for Bookatable’s flagship B2C site with deep and highly customised use of the Google Maps Javascript API. This was achieved in collaboration with the backend engineering team to set up a brand new Bookatable restaurant JSON API for front-end “consumption”..
 
 ---
