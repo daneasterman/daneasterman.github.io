@@ -1,5 +1,5 @@
 ---
-title: Customised Google Maps
+title: Google Maps JS API
 subtitle: Website Development
 layout: default
 modal-id: 1

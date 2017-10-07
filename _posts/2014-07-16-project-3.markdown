@@ -1,5 +1,5 @@
 ---
-title: Previously Viewed Restaurants
+title: HTML5 Local Storage
 subtitle: Website Development
 layout: default
 modal-id: 3
