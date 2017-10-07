@@ -1,16 +1,16 @@
 ---
-title: Landing Page Layouts
+title: Previously Viewed Restaurants
 subtitle: Website Development
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: 03-main-landing-ver2.jpg
-thumbnail: 03-289-landing.jpg
+img: full-previous-viewed.jpg
+thumbnail: thumb-previous-viewed.jpg
 alt: image-alt
 project-date: April 2014
 client: Bookatable
 category: Web Development
-description: Working closely with the company's UX team, I produced three fully responsive landing page layouts, ensuring that the designs display well across a variety of mobile and tablet devices.
+description: Used the HTML5 local storage API, integrated through Optimizely A/B testing tool to locally “remember” in the browser which restaurants the user has previously viewed.
 
 ---
 	
