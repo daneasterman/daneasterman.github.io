@@ -1,5 +1,5 @@
 ---
-title: Hailo API Integration
+title: Hailo Ruby API
 subtitle: Website Development
 layout: default
 modal-id: 4
