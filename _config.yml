@@ -3,7 +3,8 @@
 # ----------------------- #
 
 url: http://danieleasterman.com
-title: Daniel Easterman - Full Stack Web Developer
+title: Daniel Easterman
+baseurl: "/"
 email: daniel.easterman@gmail.com
 description: "I am a web developer and former journalist with a deep passion for technology, a keen eye for design and a strong desire to always be learning."
 
@@ -13,7 +14,8 @@ description: "I am a web developer and former journalist with a deep passion for
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:subTitle/
+include: ["_pages"]
 
 # ----------------------- #
 #   3rd Party Settings    #
