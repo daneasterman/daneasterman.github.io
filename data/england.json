@@ -1,0 +1,130 @@
+{
+  "events": [
+    {
+      "start_date": {
+        "year": "2000",
+        "month": "09",
+        "day": "28"
+      },
+      "end_date": {
+        "year": "2005",
+        "month": "02",
+        "day": "08"
+      },
+      "background": {
+        "opacity": "50",
+        "url": "../img/1600-second-intifada.jpg"
+      },
+      "text": {
+        "headline": "The Second Intifada",
+        "text": "Israeli police clash with Palestinians near Lion Gate in Jerusalem's Old City on October 06, 2000 (Photo by Nati Shohat / Flash90)"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2006",
+        "month": "07",
+        "day": "12"
+      },
+      "end_date": {
+        "year": "2006",
+        "month": "08",
+        "day": "14"
+      },
+      "background": {
+        "opacity": "50",
+        "url": "../img/1600-lebanon.jpg"
+      },
+      "text": {
+        "headline": "The Second Lebanon War",
+        "text": "An Israeli mobile artillery unit fires towards southern Lebanon near the Israel-Lebanon border on Wednesday July 12, 2006. (Photo by Pierre Terdjman / Flash90)"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2008",
+        "month": "12",
+        "day": "27"
+      },
+      "end_date": {
+        "year": "2009",
+        "month": "01",
+        "day": "18"
+      },
+      "background": {
+        "opacity": "50",
+        "url": "../img/1600-cast-lead.jpg"
+      },
+      "text": {
+        "headline": "Operation Cast Lead",
+        "text": "Palestinians clean the rubble of a house that was destroyed early on December 29, 2008 following an Israeli air strike on the town of Rafah in the southern Gaza Strip. (Photo by Pierre Terdjman / Flash90)"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2010",
+        "month": "05"
+      },
+      "end_date": {
+        "year": "2010",
+        "month": "05"
+      },
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/MV_Mavi_Marmara"
+      },
+      "background": {
+        "opacity": "50",
+        "url": "img/1600-flotilla.jpg"
+      },
+      "text": {
+        "headline": "The Mavi Marmara Flotilla Raid",
+        "text": "Footage taken from the Mavi Marmara security cameras on May 31, 2010 showing activists preparing for the raid by Israeli marines. (Photo by IDF Spokesperson / Flash90"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2012",
+        "month": "11",
+        "day": "14"
+      },
+      "end_date": {
+        "year": "2012",
+        "month": "11",
+        "day": "21"
+      },
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Operation_Pillar_of_Defense"
+      },
+      "background": {
+        "opacity": "50",
+        "url": "img/pillar-defense.jpg"
+      },
+      "text": {
+        "headline": "Operation Pillar of Defense",
+        "text": "Rockets fired from the Gaza Strip are intercepted by the Iron Dome system near the Israeli town of Sderot on November 20, 2012. (Photo by Mendy Hechtman / Flash90 "
+      }
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "07",
+        "day": "08"
+      },
+      "end_date": {
+        "year": "2014",
+        "month": "08",
+        "day": "26"
+      },
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/2014_Israel%E2%80%93Gaza_conflict"
+      },
+      "background": {
+        "url": "img/1600-protective-edge.jpg"
+      },
+      "text": {
+        "headline": "Operation Protective Edge",
+        "text": "Palestinians stand in a desroyed house in the Al Shejaeiya neighbourhood of Gaza City on 28 August 2014 (Photo by Emad Nassar / Flash90)"
+      }
+    }
+  ]
+}

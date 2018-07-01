@@ -14,7 +14,8 @@ description: "I am a web developer and former journalist with a deep passion for
 
 # Build settings
 markdown: kramdown
-permalink: /:subTitle/
+# below breaks the build
+# permalink: /:subTitle/
 include: ["_pages"]
 
 # ----------------------- #
