@@ -2,128 +2,150 @@
   "events": [
     {
       "start_date": {
-        "year": "2000",
-        "month": "09",
-        "day": "28"
-      },
-      "end_date": {
-        "year": "2005",
-        "month": "02",
-        "day": "08"
-      },
+        "month": "06",
+        "year": "1996"        
+      },      
       "background": {
         "opacity": "50",
-        "url": "../img/1600-second-intifada.jpg"
+        "url": "../img/england/southgate-moller.jpg"
       },
       "text": {
-        "headline": "The Second Intifada",
-        "text": "Israeli police clash with Palestinians near Lion Gate in Jerusalem's Old City on October 06, 2000 (Photo by Nati Shohat / Flash90)"
+        "headline": "Euro 96",
+        "text": "Gareth Southgate (now England manager) mourns his missed penalty just before Moller slots home to seal the victory for Germany. England are defeated at the semi-finals - the furthest they had been in the competition since losing to Yugoslavia at the same round in 1968."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1998",
+        "month": "07"        
+      },      
+      "background": {
+        "opacity": "50",
+        "url": "../img/england/beckam.jpg"
+      },
+      "text": {
+        "headline": "France 98",
+        "text": "David Beckham is sent off in their round of 16 game against Argentina at the World Cup. At 2-2, the game eventually goes to penalties. England are once again knocked out after missing twice from the spot. David Beckham is later sent death threats and bullets in the post."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2000",
+        "month": "06"        
+      },      
+      "background": {
+        "opacity": "50",
+        "url": "../img/england/romania-edited.jpg"
+      },
+      "text": {
+        "headline": "Euro 2000",
+        "text": "England are roundly criticised for failing to qualify after a last minute penalty by Romania in the dying moments of the group stage game. The failure is not widely remembered compared to the drama of the 1998 World Cup."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2002",
+        "month": "07"
+      },      
+      "background": {
+        "opacity": "50",
+        "url": "../img/england/ronaldinho-edited2.jpg"
+      },
+      "text": {
+        "headline": "South Korea / Japan 2002",
+        "text": "Ronaldinho celebrates after lobbing England goalkeeper David Seaman with an exceptional long-range free kick, sending England out of the World Cup at the quarter finals. Brazil eventually go on to win the competition."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2004",
+        "month": "06"   
+      },      
+      "background": {
+        "opacity": "50",
+        "url": "../img/england/portugal-goalkeeper.jpg"
+      },
+      "text": {
+        "headline": "Euro 2004",
+        "text": "Goalkeeper Ricardo saves without gloves as England lose again on penalties 6-5 against Portugal in the quarter finals. In a surprise upset the Portugese will stumble at the last hurdle to lose in the finals against a well-organised Greek side."
       }
     },
     {
       "start_date": {
         "year": "2006",
-        "month": "07",
-        "day": "12"
-      },
-      "end_date": {
-        "year": "2006",
-        "month": "08",
-        "day": "14"
-      },
+        "month": "07"
+      },            
       "background": {
-        "opacity": "50",
-        "url": "../img/1600-lebanon.jpg"
+        "url": "../img/england/wayne-rooney-edited2.jpg"
       },
       "text": {
-        "headline": "The Second Lebanon War",
-        "text": "An Israeli mobile artillery unit fires towards southern Lebanon near the Israel-Lebanon border on Wednesday July 12, 2006. (Photo by Pierre Terdjman / Flash90)"
+        "headline": "Germany 2006",
+        "text": "Wayne Rooney is given a straight red card after stamping on Ricardo Carvalho in England's quarter final match against Portugal. Ronaldo (far left) is seen shortly afterwards giving the Portugese bench an infamous wink. England go on to lose to Portgual again on penalties by 3-1."
       }
     },
     {
       "start_date": {
         "year": "2008",
-        "month": "12",
-        "day": "27"
-      },
-      "end_date": {
-        "year": "2009",
-        "month": "01",
-        "day": "18"
-      },
+        "month": "06"
+      },            
       "background": {
-        "opacity": "50",
-        "url": "../img/1600-cast-lead.jpg"
+        "url": "../img/england/mcclaren.jpg"
       },
       "text": {
-        "headline": "Operation Cast Lead",
-        "text": "Palestinians clean the rubble of a house that was destroyed early on December 29, 2008 following an Israeli air strike on the town of Rafah in the southern Gaza Strip. (Photo by Pierre Terdjman / Flash90)"
+        "headline": "Euro 2008",
+        "text": "England fail to qualify for Euro 2008, leading veteran football correspondent Henry Winter to write at the time: 'Outclassed, outfought and outthought'. Steve McClaren (pictured) was sacked in the immediate aftermath."
       }
     },
     {
       "start_date": {
         "year": "2010",
-        "month": "05"
-      },
-      "end_date": {
-        "year": "2010",
-        "month": "05"
-      },
-      "media": {
-        "url": "https://en.wikipedia.org/wiki/MV_Mavi_Marmara"
-      },
+        "month": "06"
+      },            
       "background": {
-        "opacity": "50",
-        "url": "img/1600-flotilla.jpg"
+        "url": "../img/england/lampard.jpg"
       },
       "text": {
-        "headline": "The Mavi Marmara Flotilla Raid",
-        "text": "Footage taken from the Mavi Marmara security cameras on May 31, 2010 showing activists preparing for the raid by Israeli marines. (Photo by IDF Spokesperson / Flash90"
+        "headline": "South Africa 2010",
+        "text": "England midfielder Frank Lampard reacts in disbelief as his goal is disallowed by the referee. The strike, fired at the underside of the crossbar is clearly seen to cross the line, and would have levelled the score against Germany 2-2. Germany go on to win 4-1 in the round of 16 match, their widest margin against England at a World Cup."
       }
     },
     {
       "start_date": {
         "year": "2012",
-        "month": "11",
-        "day": "14"
-      },
-      "end_date": {
-        "year": "2012",
-        "month": "11",
-        "day": "21"
-      },
-      "media": {
-        "url": "https://en.wikipedia.org/wiki/Operation_Pillar_of_Defense"
-      },
+        "month": "06"
+      },            
       "background": {
-        "opacity": "50",
-        "url": "img/pillar-defense.jpg"
+        "url": "../img/england/italy.jpg"
       },
       "text": {
-        "headline": "Operation Pillar of Defense",
-        "text": "Rockets fired from the Gaza Strip are intercepted by the Iron Dome system near the Israeli town of Sderot on November 20, 2012. (Photo by Mendy Hechtman / Flash90 "
+        "headline": "Euro 2012",
+        "text": "Italy are jubilant as England are defeated once again on penalties at the quarter final stage. Spain would later defeat Italy in the final, securing their place as the first team to win three major competitions in a row - Euro 2008, the 2010 World Cup in South Africa and Euro 2012."
       }
     },
     {
       "start_date": {
         "year": "2014",
-        "month": "07",
-        "day": "08"
-      },
-      "end_date": {
-        "year": "2014",
-        "month": "08",
-        "day": "26"
-      },
-      "media": {
-        "url": "https://en.wikipedia.org/wiki/2014_Israel%E2%80%93Gaza_conflict"
-      },
+        "month": "07"
+      },            
       "background": {
-        "url": "img/1600-protective-edge.jpg"
+        "url": "../img/england/italy.jpg"
       },
       "text": {
-        "headline": "Operation Protective Edge",
-        "text": "Palestinians stand in a desroyed house in the Al Shejaeiya neighbourhood of Gaza City on 28 August 2014 (Photo by Emad Nassar / Flash90)"
+        "headline": "Brazil 2014",
+        "text": "Luis Suarez of Uruguay heads home to secure his side's 2-1 victory over England. It is the first time England had been knocked out in the group stages of the World Cup since 1958."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2016",
+        "month": "06"
+      },            
+      "background": {
+        "url": "../img/england/italy.jpg"
+      },
+      "text": {
+        "headline": "Euro 2016",
+        "text": "."
       }
     }
   ]
