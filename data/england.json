@@ -128,11 +128,11 @@
         "month": "07"
       },            
       "background": {
-        "url": "../img/england/italy.jpg"
+        "url": "../img/england/suarez.jpg"
       },
       "text": {
         "headline": "Brazil 2014",
-        "text": "Luis Suarez of Uruguay heads home to secure his side's 2-1 victory over England. It is the first time England had been knocked out in the group stages of the World Cup since 1958."
+        "text": "Luis Suarez of Uruguay heads home to secure his side's 2-1 victory over England. It is the first time England had been knocked out in the group stages of a World Cup since 1958."
       }
     },
     {
@@ -141,11 +141,11 @@
         "month": "06"
       },            
       "background": {
-        "url": "../img/england/italy.jpg"
+        "url": "../img/england/iceland.jpg"
       },
       "text": {
         "headline": "Euro 2016",
-        "text": "."
+        "text": "England's defence is in disarray as an Icelandic player attempts a spectacular shot on goal. The round of 16 match ends 2-1 to Iceland after a lacklustre England performance. Legendary former England striker and broadcaster Gary Linekar described the result on Twitter as: 'the worst defeat in our history'."
       }
     }
   ]
