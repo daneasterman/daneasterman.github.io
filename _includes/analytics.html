@@ -6,4 +6,14 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-121800333-1');
+
+  var trackEl = document.querySelectorAll('.ga-track');
+  Array.prototype.forEach.call(trackEl, function(el) {
+      el.onclick = function() {
+          var elCategory = this.getAttribute('data-category');
+          var elAction   = this.getAttribute('data-action');
+          var elLabel    = this.getAttribute('data-label');
+          ga('send', 'event', elCategory, elAction, elLabel);
+      };
+  });
 </script>
