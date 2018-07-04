@@ -1,4 +1,14 @@
 {
+  "title": {
+    "text": {
+        "headline": "A Millenial’s Guide to England Football History",
+        "text": "With England winning their first penalty shootout ever at a World Cup last night, perhaps it is as good a time as any to step back in time and remember some of the heartbreak us millenials have experienced along the way. And what better place to start than that summer of highs and lows - Euro 96..."
+    },
+    "background": {
+      "opacity": "50",
+      "url": "../img/england/shearer-goal.jpg"
+    }
+},
   "events": [
     {
       "start_date": {
@@ -11,7 +21,7 @@
       },
       "text": {
         "headline": "Euro 96",
-        "text": "Gareth Southgate (now England manager) mourns his missed penalty just before Moller slots home to seal the victory for Germany. England are defeated at the semi-finals - the furthest they had been in the competition since losing to Yugoslavia at the same round in 1968."
+        "text": "Gareth Southgate (now England manager) mourns his missed penalty moments before Moller slots home to seal the victory for Germany. England are defeated at the semi-finals - the furthest they had been in the competition since losing to Yugoslavia in 1968."
       }
     },
     {
@@ -25,7 +35,7 @@
       },
       "text": {
         "headline": "France 98",
-        "text": "David Beckham is sent off in their round of 16 game against Argentina at the World Cup. At 2-2, the game eventually goes to penalties. England are once again knocked out after missing twice from the spot. David Beckham is later sent death threats and bullets in the post."
+        "text": "David Beckham is sent off at the World Cup round of 16 game against Argentina. At 2-2, the game eventually goes to penalties. England are once again knocked out after missing twice from the spot. David Beckham is later sent death threats and bullets in the post."
       }
     },
     {
@@ -39,7 +49,7 @@
       },
       "text": {
         "headline": "Euro 2000",
-        "text": "England are roundly criticised for failing to qualify after a last minute penalty by Romania in the dying moments of the group stage game. The failure is not widely remembered compared to the drama of the 1998 World Cup."
+        "text": "England are roundly criticised for failing to qualify from their group after a last minute penalty by Romania in the dying moments of the game."
       }
     },
     {
@@ -67,7 +77,7 @@
       },
       "text": {
         "headline": "Euro 2004",
-        "text": "Goalkeeper Ricardo saves without gloves as England lose again on penalties 6-5 against Portugal in the quarter finals. In a surprise upset the Portugese will stumble at the last hurdle to lose in the finals against a well-organised Greek side."
+        "text": "Goalkeeper Ricardo saves while not wearing gloves, as England lose again on penalties 6-5 against Portugal in the quarter finals. In a surprise upset the Portugese will stumble at the last hurdle to lose in the finals against a well-organised Greek side."
       }
     },
     {
@@ -80,7 +90,7 @@
       },
       "text": {
         "headline": "Germany 2006",
-        "text": "Wayne Rooney is given a straight red card after stamping on Ricardo Carvalho in England's quarter final match against Portugal. Ronaldo (far left) is seen shortly afterwards giving the Portugese bench an infamous wink. England go on to lose to Portgual again on penalties by 3-1."
+        "text": "Wayne Rooney is given a straight red card after stamping on Ricardo Carvalho in England's quarter final match against Portugal. Ronaldo (far left) is seen shortly afterwards giving the Portugese bench his infamous wink. England go on to lose to Portgual again on penalties by 3-1."
       }
     },
     {
@@ -106,7 +116,7 @@
       },
       "text": {
         "headline": "South Africa 2010",
-        "text": "England midfielder Frank Lampard reacts in disbelief as his goal is disallowed by the referee. The strike, fired at the underside of the crossbar is clearly seen to cross the line, and would have levelled the score against Germany 2-2. Germany go on to win 4-1 in the round of 16 match, their widest margin against England at a World Cup."
+        "text": "England midfielder Frank Lampard reacts in disbelief as his goal is disallowed by the referee. His strike is fired at the underside of the crossbar and is clearly seen to cross the line. The goal would would have levelled the score against Germany 2-2. Germany go on to win 4-1 in the round of 16 match, their widest margin against England at a World Cup."
       }
     },
     {
@@ -119,7 +129,7 @@
       },
       "text": {
         "headline": "Euro 2012",
-        "text": "Italy are jubilant as England are defeated once again on penalties at the quarter final stage. Spain would later defeat Italy in the final, securing their place as the first team to win three major competitions in a row - Euro 2008, the 2010 World Cup in South Africa and Euro 2012."
+        "text": "Italy are jubilant as England are defeated once again on penalties at the quarter final stage. Spain later defeats Italy in the final, securing their place as the first team to win three major competitions in a row - Euro 2008, the 2010 World Cup in South Africa and Euro 2012."
       }
     },
     {
@@ -132,7 +142,7 @@
       },
       "text": {
         "headline": "Brazil 2014",
-        "text": "Luis Suarez of Uruguay heads home to secure his side's 2-1 victory over England. It is the first time England had been knocked out in the group stages of a World Cup since 1958."
+        "text": "Luis Suarez of Uruguay heads home to secure his side's 2-1 victory over England. It was the first  England were knocked out in the group stages of a World Cup since 1958."
       }
     },
     {
@@ -146,6 +156,19 @@
       "text": {
         "headline": "Euro 2016",
         "text": "England's defence is in disarray as an Icelandic player attempts a spectacular shot on goal. The round of 16 match ends 2-1 to Iceland after a lacklustre England performance. Legendary former England striker and broadcaster Gary Linekar described the result on Twitter as: 'the worst defeat in our history'."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2018",
+        "month": "07"
+      },            
+      "background": {
+        "url": "../img/england/england-columbia.jpg"
+      },
+      "text": {
+        "headline": "Russia 2018",
+        "text": "The England team celebrate after going through to the quarter finals and winning their first ever penalty shootout at a World Cup. What will the future hold for this England team in 2018? Their history is still being written..."
       }
     }
   ]
