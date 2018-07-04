@@ -1,20 +1,20 @@
 {
   "title": {
     "text": {
-        "headline": "A Millenial’s Guide to England Football History",
-        "text": "With England winning their first penalty shootout ever at a World Cup last night, perhaps it is as good a time as any to step back in time and remember some of the heartbreak us millenials have experienced along the way. And what better place to start than that summer of highs and lows - Euro 96..."
+      "headline": "A Millennial’s Guide to England Football History",
+      "text": "With England winning their first penalty shootout ever at a World Cup last night, perhaps it is as good a time as any to step back in time and remember some of the heartbreak us millenials have experienced along the way. And what better place to start than that summer of highs and lows - Euro 96..."
     },
     "background": {
       "opacity": "50",
       "url": "../img/england/shearer-goal.jpg"
     }
-},
+  },
   "events": [
     {
       "start_date": {
         "month": "06",
-        "year": "1996"        
-      },      
+        "year": "1996"
+      },
       "background": {
         "opacity": "50",
         "url": "../img/england/southgate-moller.jpg"
@@ -27,8 +27,8 @@
     {
       "start_date": {
         "year": "1998",
-        "month": "07"        
-      },      
+        "month": "07"
+      },
       "background": {
         "opacity": "50",
         "url": "../img/england/beckam.jpg"
@@ -41,8 +41,8 @@
     {
       "start_date": {
         "year": "2000",
-        "month": "06"        
-      },      
+        "month": "06"
+      },
       "background": {
         "opacity": "50",
         "url": "../img/england/romania-edited.jpg"
@@ -56,7 +56,7 @@
       "start_date": {
         "year": "2002",
         "month": "07"
-      },      
+      },
       "background": {
         "opacity": "50",
         "url": "../img/england/ronaldinho-edited2.jpg"
@@ -69,8 +69,8 @@
     {
       "start_date": {
         "year": "2004",
-        "month": "06"   
-      },      
+        "month": "06"
+      },
       "background": {
         "opacity": "50",
         "url": "../img/england/portugal-goalkeeper.jpg"
@@ -84,7 +84,7 @@
       "start_date": {
         "year": "2006",
         "month": "07"
-      },            
+      },
       "background": {
         "url": "../img/england/wayne-rooney-edited2.jpg"
       },
@@ -97,7 +97,7 @@
       "start_date": {
         "year": "2008",
         "month": "06"
-      },            
+      },
       "background": {
         "url": "../img/england/mcclaren.jpg"
       },
@@ -110,7 +110,7 @@
       "start_date": {
         "year": "2010",
         "month": "06"
-      },            
+      },
       "background": {
         "url": "../img/england/lampard.jpg"
       },
@@ -123,7 +123,7 @@
       "start_date": {
         "year": "2012",
         "month": "06"
-      },            
+      },
       "background": {
         "url": "../img/england/italy.jpg"
       },
@@ -136,7 +136,7 @@
       "start_date": {
         "year": "2014",
         "month": "07"
-      },            
+      },
       "background": {
         "url": "../img/england/suarez.jpg"
       },
@@ -149,7 +149,7 @@
       "start_date": {
         "year": "2016",
         "month": "06"
-      },            
+      },
       "background": {
         "url": "../img/england/iceland.jpg"
       },
@@ -162,7 +162,7 @@
       "start_date": {
         "year": "2018",
         "month": "07"
-      },            
+      },
       "background": {
         "url": "../img/england/england-columbia.jpg"
       },
