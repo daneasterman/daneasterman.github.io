@@ -44,9 +44,48 @@ h6 {
   padding-bottom: 30px;
   text-align: center;
   color: #f8f8f8;
-  background: url({{site.url}}/img/1152-pierre-leverrier.jpg) no-repeat center
+  background: url({{site.url}}/img/1152-blake-richard.jpg) no-repeat center
     center;
   background-size: cover;
+  content: "";
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.ebook-section-wrapper {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+}
+
+.ebook-title-wrapper {
+  width: 60%;
+  margin: 0;
+  padding-top: 70px;
+}
+
+.ebook-title {
+  text-align: left;
+  font-size: 55px;
+}
+
+.ebook-img-wrapper {
+  padding-top: 70px;
+  width: 30%;
+  position: relative;
+  margin-right: 60px;
+}
+
+.ebook-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.ebook-button-wrappper {
 }
 
 .intro-message {
