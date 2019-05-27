@@ -56,36 +56,65 @@ h6 {
 }
 
 .ebook-section-wrapper {
-  position: relative;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: row-reverse;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
 }
 
+@media (min-width: 650px) {
+  .ebook-section-wrapper {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row-reverse;
+  }
+}
+
 .ebook-title-wrapper {
-  width: 60%;
-  margin: 0;
-  padding-top: 70px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 125px;
-  padding-right: 30px;
+  width: 100%;
+  padding-top: 0;
+  margin: 0;
+}
+
+@media (min-width: 650px) {
+  .ebook-title-wrapper {
+    width: 60%;
+    padding-top: 70px;
+    padding-top: 125px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
 }
 
 .ebook-title {
-  text-align: center;
-  font-size: 55px;
-  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
-  max-width: 600px;
+  display: none;
+}
+
+@media (min-width: 650px) {
+  .ebook-title {
+    display: block;
+    text-align: center;
+    font-size: 55px;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+    max-width: 600px;
+  }
 }
 
 .ebook-img-wrapper {
-  padding-top: 70px;
-  width: 30%;
-  position: relative;
-  /* margin-right: 60px; */
+  width: 70%;
+  padding-top: 50px;
+  margin: 0 auto;
+}
+
+@media (min-width: 650px) {
+  .ebook-img-wrapper {
+    padding-top: 70px;
+    width: 30%;
+    position: relative;
+  }
 }
 
 .ebook-img {
@@ -176,8 +205,6 @@ h6 {
 #mc_embed_signup h2 {
   margin-top: 5px !important;
 }
-
-/* @min */
 
 .custom-form-wrapper {
   display: flex;
