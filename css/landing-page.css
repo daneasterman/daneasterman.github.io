@@ -143,10 +143,25 @@ h6 {
   max-height: 100%;
 }
 
-.ebook-modal {
-  padding: 5px 20px 20px 20px;
-  background-color: #eee;
-  border: 1px solid #d3d3d3;
+.ebook-modal-close-button {
+  top: -15px;
+  right: -15px;
+  bottom: auto;
+  left: auto;
+  border-radius: 100%;
+  background-color: #3e153f;
+  fill: #fff;
+  position: absolute;
+  border: none;
+  z-index: 999;
+  padding: 5px;
+  margin: 5px;
+}
+
+.ebook-modal-close-button:hover {
+  background-color: #fff;
+  fill: #3e153f;
+  border: 1px solid #3e153f;
 }
 
 #mc_embed_signup {
@@ -191,6 +206,13 @@ h6 {
   margin-bottom: 0 !important;
   padding: 5px 22px !important;
   height: 40px !important;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+  background-color: #ffb000 !important;
+  border-color: #ffb000 !important;
+}
+
+.custom-button:hover {
+  background-color: #ffcc5a !important;
 }
 
 #mc_embed_signup div#mce-responses {
