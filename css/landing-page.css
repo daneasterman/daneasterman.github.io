@@ -142,7 +142,7 @@ h6 {
   border-radius: 12px;
   text-transform: uppercase;
   transition: all 200ms ease-in-out;
-  line-height: 1;
+  line-height: 1.4;
   display: block;
 }
 
@@ -265,6 +265,76 @@ h6 {
 #mc_embed_signup div#mce-responses {
   float: none !important;
   margin: 0 !important;
+}
+
+.marketing-wrapper {
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+.marketing-wrapper .section-head {
+  padding-bottom: 30px;
+}
+
+.marketing-wrapper ul {
+  padding: 0;
+  margin: 0;
+  list-style: none outside none;
+}
+
+.marketing-wrapper ul li {
+  margin-bottom: 30px;
+}
+
+.marketing-wrapper h1 {
+  font-weight: normal;
+  line-height: 1.25;
+  font-weight: normal;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 35px;
+}
+
+@media (min-width: 650px) {
+  .marketing-wrapper h1 {
+    font-size: 45px;
+  }
+}
+
+.marketing-wrapper h4 {
+  line-height: 1.35;
+  color: #333c4e;
+  font-weight: 300;
+  text-align: left;
+  font-size: 22px;
+}
+
+@media (min-width: 650px) {
+  .marketing-wrapper h4 {
+    font-size: 29px;
+  }
+}
+
+.marketing-wrapper p {
+  margin: 0;
+  color: #7e8890;
+  font-weight: 300;
+  line-height: 1.4;
+  text-align: left;
+  font-size: 16px;
+}
+
+@media (min-width: 650px) {
+  .marketing-wrapper p {
+    font-size: 23px;
+  }
+}
+
+.marketing-wrapper .teaser {
+  text-align: center;
+  font-size: 18px;
+  color: #7e8890;
+  margin-bottom: 30px;
 }
 
 .intro-message {
