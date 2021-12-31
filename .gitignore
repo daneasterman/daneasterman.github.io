@@ -1,0 +1,7 @@
+_site
+.vscode
+.vscode/settings.json
+.jekyll-cache
+.jekyll-metadata
+.DS_Store
+.ds_store

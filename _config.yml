@@ -1,0 +1,19 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+title: Robostox - Tools and reports every week on tech stocks and crypto.
+author: Daniel Easterman
+description: Tools and reports every week on tech stocks and crypto.
+copyright: ""
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+# Causing css and js to fail:
+# permalink: pretty
+# Don't need this as simpler without _pages folder
+# include: ["_pages"]
