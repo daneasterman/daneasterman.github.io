@@ -10,6 +10,12 @@ html {
 	min-height: 100vh;
 	background-color: #fff;	
 }
+body {
+	display: flex;
+  flex-direction: column;
+	min-height: 100vh;    
+}
+
 a {
   color: currentColor;
   cursor: pointer;
