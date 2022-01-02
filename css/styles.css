@@ -1,5 +1,4 @@
-html {
-	background-color: black;
+html {	
 	color: #fff;
 	font-size: 16px;
 	font-family: "Poppins", sans-serif;
@@ -7,35 +6,49 @@ html {
   -webkit-font-smoothing: antialiased;
   line-height: 1.5;	
   min-width: 300px;
-  overflow-x: hidden;
-  text-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);	
-}
-body {
+  overflow-x: hidden;  
 	min-height: 100vh;
-	display: flex;
-	flex-direction: column;
+	background-color: #fff;	
 }
 a {
   color: currentColor;
   cursor: pointer;
   text-decoration: none;
 }
-img {
-	vertical-align: middle;
-}
-section {
-	padding: 2rem 2rem;
+
+.wallpaper {
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), 
+	url("../img/alhambra.jpg") no-repeat center;  
+  background-size: cover;  
+  position: fixed;
 }
 
-/* Desktop */
-@media screen and (min-width: 768px) {
-  section {
-    padding-top: 7rem;
-		padding-bottom: 6rem;
-  }
+.content {
+	display: flex;
+  position: relative;
+	min-height: 100vh;	
 }
 
-/* 2. Shared */
+.content_wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;	
+	background-color: rgba(0,0,0,0.4);
+	padding: 1.5rem 2.25rem;
+	border-radius: 14px
+}
+
+.job {
+	font-size: 0.8rem;
+	font-weight: 600;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;	
+}
+
+.side {
+  max-height: 20rem;
+  max-width: 20rem;
+}
 
 .wallpaper,
 .picture-shadow,
@@ -47,51 +60,10 @@ section {
   width: 100%;
 }
 
-.job,
-.button {
-  font-family: "Montserrat", "Quicksand", sans-serif;
-  letter-spacing: 0.3em;
-  text-transform: uppercase;
-}
-
-.button,
-.social a {
-  transform-origin: center;
-  transition-duration: 100ms;
-}
-
-/* 3. Specific */
-
-.wallpaper {
-  background-image: url("../images/austria.jpg");
-  background-position: center;
-  background-size: cover;
-  opacity: 0.2;
-  position: fixed;
-}
-
-.content {
-  display: flex;
-  position: relative;
-  min-height: 100vh;
-}
-
-.side {
-  max-height: 20rem;
-  max-width: 20rem;
-}
-
 .picture {
   padding-top: 100%;
   position: relative;
   width: 100%;
-}
-
-.picture-shadow {
-  border-radius: 290486px;
-  background-image: radial-gradient(#000 0%, rgba(0, 0, 0, 0) 70%);
-  position: absolute;
-  top: 10%;
 }
 
 .picture-image {
@@ -100,22 +72,19 @@ section {
 }
 
 .about {
-  max-width: 26rem;
+  max-width: 35rem;  
+	padding: 1.5rem 2.25rem;
 }
 
 .name {
-  font-size: 2.25rem;
+  font-size: 3rem;
+	font-weight: 500;
   line-height: 1.125;
   margin-bottom: 0.5rem;
 }
 
-.job {
-  color: #ffe479;
-  font-size: 0.75rem;
-}
-
 .hr {
-  background-color: #ff470f;
+  background-color: #fff;
   border: none;
   content: "";
   height: 1px;
@@ -126,40 +95,13 @@ section {
 }
 
 .description {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 .contact {
   display: inline-block;
   margin-top: 1.5rem;
   vertical-align: top;
-}
-
-.button {
-  background-color: #fff;
-  border-radius: 290486px;
-  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
-  color: #9013fe;
-  display: inline-block;
-  font-size: 0.875rem;
-  line-height: 1;
-  padding: 1.25em 2em;
-  text-shadow: none;
-  transition-property: box-shadow, transform;
-  user-select: none;
-  vertical-align: top;
-  white-space: nowrap;
-  will-change: box-shadow, transform;
-}
-
-.button:hover {
-  box-shadow: 0 1.5rem 3rem rgba(0, 0, 0, 0.2);
-  transform: scale(1.02) translateY(-4px);
-}
-
-.button:active {
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
-  transform: scale(0.98) translateY(-2px);
 }
 
 .social {
@@ -169,7 +111,7 @@ section {
 
 .social li {
   height: 2rem;
-  margin-right: 0.5rem;
+  margin-right: 1rem;
   text-align: center;
   width: 2rem;
 }
@@ -177,13 +119,15 @@ section {
 .social a {
   align-items: center;
   display: flex;
-  font-size: 1.5rem;
+  font-size: 2rem;
   height: 2rem;
   justify-content: center;
-  opacity: 0.5;
+  opacity: 0.8;
   transition-property: opacity, transform;
   width: 2rem;
   will-change: opacity, transform;
+	transform-origin: center;
+  transition-duration: 100ms;
 }
 
 .social a:hover {
@@ -196,39 +140,37 @@ section {
   transform: scale(1.1);
 }
 
-/* 4. Responsiveness */
+/* RESPONSIVENESS: */
 
+/* MOBILE */
 @media screen and (max-width: 799px) {
   .content {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 5rem 3rem;
+    padding: 0;
   }
 
   .side {
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
     width: 100%;
   }
 }
 
+/* DESKTOP */
 @media screen and (min-width: 800px) {
-  .content {
+  .content_wrapper, .content {
     align-items: center;
-    justify-content: space-around;
-    justify-content: space-evenly;
-    padding: 4rem;
+		flex-direction: row;
+		justify-content: center;	    	
   }
-
   .side {
     flex-grow: 0;
-    flex-shrink: 0;
-    height: 20rem;
-    margin-left: 4rem;
+    flex-shrink: 0;    
     order: 2;
-    width: 20rem;
+    width: 16rem;
+		margin-left: 2rem;
   }
-
   .about {
     flex-grow: 1;
     flex-shrink: 1;
