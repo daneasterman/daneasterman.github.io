@@ -7,13 +7,7 @@ html {
   line-height: 1.5;	
   min-width: 300px;
   overflow-x: hidden;  
-	min-height: 100vh;
-	background-color: #fff;	
-}
-body {
-	display: flex;
-  flex-direction: column;
-	min-height: 100vh;    
+	min-height: 100vh;	
 }
 
 a {
@@ -23,10 +17,10 @@ a {
 }
 
 .wallpaper {
-  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), 
-	url("../img/alhambra.jpg") no-repeat center;  
+  background-image: url("../img/alhambra.jpg");
+  background-position: center;
   background-size: cover;  
-  position: fixed;
+  position: fixed;	
 }
 
 .content {
@@ -70,6 +64,13 @@ a {
   padding-top: 100%;
   position: relative;
   width: 100%;
+}
+
+.picture-shadow {
+  border-radius: 290486px;
+  background-image: radial-gradient(#000 0%, rgba(0, 0, 0, 0) 70%);
+  position: absolute;
+  top: 10%;
 }
 
 .picture-image {
