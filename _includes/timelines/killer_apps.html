@@ -1,0 +1,25 @@
+<style>
+	html,
+	body {
+			height: 100%;
+			width: 100%;
+			padding: 0px;
+			margin: 0px;
+	}
+	.tl-headline { display: none }
+	.tl-timeline h3.tl-headline-date { font-size: 2.5rem; margin-bottom: 1rem; }
+	.tl-slide-media-only .tl-slide-content-container 
+	.tl-slide-content .tl-media { max-width: 100%; margin: 0 auto; }
+	
+	@media screen and (min-width: 768px) {
+	.tl-slide-media-only .tl-slide-content-container 
+	.tl-slide-content .tl-media { max-width: 50%; margin: 0 auto; }
+	}	
+</style>
+
+<div id="killer_apps"></div>
+<script src="../../js/timeline.js"></script>
+	<script>
+			var timeline = new TL.Timeline('killer_apps', '../../json/killer_apps.json', {});
+			window.onresize = function (event) { timeline.updateDisplay(); }
+	</script>

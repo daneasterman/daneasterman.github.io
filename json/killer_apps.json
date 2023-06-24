@@ -1,0 +1,755 @@
+{
+  "events": [
+   {
+    "start_date": {
+     "year": "2023"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9d226WwAM25TQ.jpg"
+    },
+    "text": {
+     "headline": "ChatGPT"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/ChatGPT",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9d226WwAM25TQ.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2022"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dT1pagAEm3Lf.jpg"
+    },
+    "text": {
+     "headline": "iOS 16"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/iOS_16",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dT1pagAEm3Lf.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2021"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dTXHaUAAzN4x.jpg"
+    },
+    "text": {
+     "headline": "Android 12"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Android_12",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dTXHaUAAzN4x.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2020"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dS8CacAAgNH2.jpg"
+    },
+    "text": {
+     "headline": "Clubhouse"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Clubhouse_(app)",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dS8CacAAgNH2.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2019"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dSf4aUAAjzlC.jpg"
+    },
+    "text": {
+     "headline": "Hopin"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Hopin_(software)",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dSf4aUAAjzlC.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2018"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dSHraYAAS-Bz.png"
+    },
+    "text": {
+     "headline": "Notion"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Notion_(productivity_software)",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dSHraYAAS-Bz.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2017"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dRpTaYAAVdz_.jpg"
+    },
+    "text": {
+     "headline": "Fortnite"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Fortnite",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dRpTaYAAVdz_.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2016"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dRPTaIAAY35X.jpg"
+    },
+    "text": {
+     "headline": "Figma"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Figma_(software)",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dRPTaIAAY35X.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2015"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dQyJaUAA2f9F.jpg"
+    },
+    "text": {
+     "headline": "Discord"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Discord",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dQyJaUAA2f9F.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2014"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dQU2aYAITF9n.png"
+    },
+    "text": {
+     "headline": "Snowflake"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Snowflake_Inc.",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dQU2aYAITF9n.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2013"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dPzNakAEWrdY.jpg"
+    },
+    "text": {
+     "headline": "Canva"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Canva",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dPzNakAEWrdY.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2012"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dPZWaIAAzDAc.png"
+    },
+    "text": {
+     "headline": "OSX Mountain Lion"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/OS_X_Mountain_Lion",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dPZWaIAAzDAc.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2011"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dO69aQAEYC7O.jpg"
+    },
+    "text": {
+     "headline": "Uber"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Uber",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dO69aQAEYC7O.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2010"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dOgnaYAAp5zT.jpg"
+    },
+    "text": {
+     "headline": "Instagram"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Instagram",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dOgnaYAAp5zT.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2009"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dOCKaYAALsa5.jpg"
+    },
+    "text": {
+     "headline": "WhatsApp"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/WhatsApp",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dOCKaYAALsa5.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2008"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dNnVaUAEkIZh.jpg"
+    },
+    "text": {
+     "headline": "Airbnb"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Airbnb",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dNnVaUAEkIZh.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2007"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dNKwaQAAgelh.jpg"
+    },
+    "text": {
+     "headline": "iOS 1"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/iOS",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dNKwaQAAgelh.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2006"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dMu7aAAApFll.jpg"
+    },
+    "text": {
+     "headline": "Google Docs"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Google_Docs",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dMu7aAAApFll.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2005"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dMQtaIAEwP8X.jpg"
+    },
+    "text": {
+     "headline": "Google Maps"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Google_Maps",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dMQtaIAEwP8X.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2004"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dLzRaUAI3Ut3.jpg"
+    },
+    "text": {
+     "headline": "Facebook"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Facebook",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dLzRaUAI3Ut3.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2003"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dLboaEAA9oI5.jpg"
+    },
+    "text": {
+     "headline": "Keynote"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Keynote_(presentation_software)",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dLboaEAA9oI5.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2002"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dK-tagAEui9i.jpg"
+    },
+    "text": {
+     "headline": "Mozilla Firefox"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Mozilla_Firefox",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dK-tagAEui9i.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2001"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dKjJaMAAinjZ.png"
+    },
+    "text": {
+     "headline": "Wikipedia"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Wikipedia",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dKjJaMAAinjZ.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "2000"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dKKGaQAcM-p8.jpg"
+    },
+    "text": {
+     "headline": "Limewire"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Limewire",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dKKGaQAcM-p8.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1999"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dJtMaIAAUCky.png"
+    },
+    "text": {
+     "headline": "Salesforce"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Salesforce",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dJtMaIAAUCky.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1998"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dJNjaIAA_wQN.png"
+    },
+    "text": {
+     "headline": "Google Search"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Google_Search",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dJNjaIAA_wQN.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1997"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dI3WaMAIFp9B.png"
+    },
+    "text": {
+     "headline": "Microsoft Outlook"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Microsoft_Outlook",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dI3WaMAIFp9B.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1996"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dIbtagAEA9QT.png"
+    },
+    "text": {
+     "headline": "Adobe Flash Player"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Adobe_Flash_Player",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dIbtagAEA9QT.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1995"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dH63aQAAESUe.png"
+    },
+    "text": {
+     "headline": "Windows 95"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Windows_95",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dH63aQAAESUe.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1994"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dHduaIAAMFKD.png"
+    },
+    "text": {
+     "headline": "Yahoo"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Yahoo",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dHduaIAAMFKD.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1993"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dG8oaIAATsHP.jpg"
+    },
+    "text": {
+     "headline": "Doom"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Doom_(franchise)",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dG8oaIAATsHP.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1992"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dGibaUAA6Tx_.png"
+    },
+    "text": {
+     "headline": "Lynx (text-based web browser)"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Lynx",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dGibaUAA6Tx_.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1991"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dGGeaQAAHdmL.jpg"
+    },
+    "text": {
+     "headline": "Linux"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Linux",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dGGeaQAAHdmL.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1990"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dFqoaIAAYhye.png"
+    },
+    "text": {
+     "headline": "Windows 3.0"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Windows_3.0",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dFqoaIAAYhye.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1989"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dFG0aYAA6AYF.jpg"
+    },
+    "text": {
+     "headline": "Autodesk Animator"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Autodesk_Animator",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dFG0aYAA6AYF.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1988"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dEqSaMAALzCi.jpg"
+    },
+    "text": {
+     "headline": "Internet Relay Chat (IRC)"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Internet_Relay_Chat",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dEqSaMAALzCi.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1987"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dEOOaIAAVLab.png"
+    },
+    "text": {
+     "headline": "Photoshop"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Photoshop",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dEOOaIAAVLab.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1986"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dDzUacAEezeM.png"
+    },
+    "text": {
+     "headline": "Super Marios Bros 2"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dDzUacAEezeM.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1985"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dDXPaQAAVn0G.png"
+    },
+    "text": {
+     "headline": "Excel"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Excel",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dDXPaQAAVn0G.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1984"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dC-kaQAAL1ge.png"
+    },
+    "text": {
+     "headline": "Tetris"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Tetris",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dC-kaQAAL1ge.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1983"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dCmTaUAAm8jF.png"
+    },
+    "text": {
+     "headline": "Quicken"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Quicken",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dCmTaUAAm8jF.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1982"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dCLKaIAAsuQR.jpg"
+    },
+    "text": {
+     "headline": "Bloomberg Terminal"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Bloomberg_Terminal",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dCLKaIAAsuQR.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1981"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dBw8aEAA27cH.jpg"
+    },
+    "text": {
+     "headline": "MS-DOS"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/MS-DOS",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dBw8aEAA27cH.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1980"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dBReakAcDcnO.jpg"
+    },
+    "text": {
+     "headline": "Pac-Man"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/Pac-Man",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dBReakAcDcnO.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1979"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dA1IagAEyY_C.png"
+    },
+    "text": {
+     "headline": "SAP R/2"
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/SAP_R/2",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dA1IagAEyY_C.png"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1978"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dAbhaUAAdXvw.jpg"
+    },
+    "text": { "headline": "Apple DOS" },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/AppleDOS",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dAbhaUAAdXvw.jpg"
+    }
+   },
+   {
+    "start_date": {
+     "year": "1977"
+    },
+    "background": {
+     "opacity": "50",
+     "url": "https://pbs.twimg.com/media/Fy9dAHCaMAEjHz0.jpg"
+    },
+    "text": {
+     "headline": "VisiCalc",
+     "text": "One software product from every year since 1977, in chronological order.\n\nOriginal tweet thread by @aakashg0. Timeline created by @daneasterman."
+    },
+    "media": {
+     "url": "https://en.wikipedia.org/wiki/VisiCalc",
+     "thumbnail": "https://pbs.twimg.com/media/Fy9dAHCaMAEjHz0.jpg"
+    }
+   }
+  ]
+ }
