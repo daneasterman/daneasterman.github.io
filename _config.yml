@@ -15,5 +15,4 @@ copyright: ""
 markdown: kramdown
 # Causing css and js to fail:
 # permalink: pretty
-# Don't need this as simpler without _pages folder
-# include: ["_pages"]
+include: ["_pages"]
