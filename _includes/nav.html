@@ -19,7 +19,7 @@
 		a.nav_title_link:hover { text-decoration: underline;}
 			
 		.nav_title {
-			font-size: 1.75rem;
+			font-size: 1.5rem;
 			font-weight: 500;		
 			position: relative;
 			margin-left: 10px;			
@@ -30,9 +30,11 @@
 			flex-direction: column; 
 			align-items: center; 
 		}
-		.twitter_wrapper { display: flex; align-items: center; }	
+		.twitter_wrapper { display: flex; align-items: center; }
+		.contact_wrapper .twitter_link:hover { text-decoration: underline; }	
+		.twitter_link { font-weight: 500; }
 	
-		@media screen and (min-width: 860px) {		
+		@media screen and (min-width: 860px) {
 			.nav_wrapper {
 				flex-direction: row;  
 				justify-content: space-between; 
@@ -41,8 +43,7 @@
 			.logo_wrapper { margin-bottom: 0; }
 			.contact_wrapper { flex-direction: row; }
 			.twitter_wrapper { margin-bottom: 0;}
-		}
-		.contact_wrapper .twitter_link:hover { text-decoration: underline; }	
+		}		
 	</style>
 
 <nav role="navigation">
