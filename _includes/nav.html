@@ -1,0 +1,67 @@
+<style> 
+
+	nav { margin-bottom: 0; }
+
+	.nav_wrapper {
+			line-height: 1;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			background-color: rgba(0,0,0,0.7);	
+			color: white;
+			padding: 1rem 2rem 0.5rem 2rem;
+			
+		}
+		.logo_wrapper { display: flex; align-items: center; margin-bottom: 0.5rem; }
+		.twitter_wrapper { margin-bottom: 0.5rem;}
+	
+		a.nav_title_link { display: block } 
+		a.nav_title_link:hover { text-decoration: underline;}
+			
+		.nav_title {
+			font-size: 1.75rem;
+			font-weight: 500;		
+			position: relative;
+			margin-left: 10px;			
+		}
+		
+		.contact_wrapper {
+			display: flex; 
+			flex-direction: column; 
+			align-items: center; 
+		}
+		.twitter_wrapper { display: flex; align-items: center; }	
+	
+		@media screen and (min-width: 860px) {		
+			.nav_wrapper {
+				flex-direction: row;  
+				justify-content: space-between; 
+				padding: 1rem 7rem 1rem 7rem;
+			} 
+			.logo_wrapper { margin-bottom: 0; }
+			.contact_wrapper { flex-direction: row; }
+			.twitter_wrapper { margin-bottom: 0;}
+		}
+		.contact_wrapper .twitter_link:hover { text-decoration: underline; }	
+	</style>
+
+<nav role="navigation">
+  <div class="nav_wrapper">
+    <div class="logo_wrapper"> 
+			<a class="nav_title_link" href="/">  
+      	<h1 class="nav_title">Daniel Easterman<h1>
+			</a> 
+    </div>
+		<div class="contact_wrapper">
+			<div class="twitter_wrapper"> 
+				<a style="margin-right: 0.5rem;" class="twitter_link" 
+					target="_blank" href="https://twitter.com/daneasterman">By @daneasterman:
+				</a>
+				<a target="_blank" 
+						target="_blank" href="https://twitter.com/daneasterman">
+						<i style="font-size: 1.5rem" class="fab fa-twitter"></i>
+					</a>
+			</div>
+	</div>
+	</div>
+</nav>
