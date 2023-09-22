@@ -1,0 +1,404 @@
+{
+    "events": [
+        {
+            "start_date": {
+                "year": "602"
+            },
+            "end_date": {
+                "year": "629"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Roman%E2%80%93Persian_Wars#Climax"
+            },
+            "text": {
+                "headline": "Last great Roman–Persian War.",
+                "text": "Long conflict leaves both empires exhausted and unable to cope with the newly united Arab armies under Islam in the 630s\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Rome-Seleucia-Parthia_200bc.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "604"
+            },
+            "end_date": {
+                "year": "609"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Grand_Canal_(China)"
+            },
+            "text": {
+                "headline": "Grand Canal in China is fully completed[16]",
+                "text": "Its main role throughout its history was the transport of grain to the capital.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/China-Grand_canal%2C_Sui_and_Tang.svg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "618"
+            },
+            "end_date": {
+                "year": "907"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Tang_dynasty"
+            },
+            "text": {
+                "headline": "Tang dynasty in China.",
+                "text": "The essential administrative system of this dynasty lasts for 286 years.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Emperor_Taizong_gives_an_audience_to_the_ambassador_of_Tibet.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "622"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Hegira"
+            },
+            "text": {
+                "headline": "Muhammad migrates from Mecca to Medina.",
+                "text": "Event will have designated first year of the Islamic calendar, as Anno Hegirae.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hejaz622.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "626"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(626)"
+            },
+            "text": {
+                "headline": "Joint Persian–Avar–Slav Siege of Constantinople\n",
+                "text": "Constantinople saved, Avar power broken, and Persians henceforth on the defensive\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Moldovita_murals_2010_16.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "627"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Battle_of_Nineveh_(627)"
+            },
+            "text": {
+                "headline": "Battle of Nineveh.",
+                "text": "The Byzantines, under Heraclius, crush the Persians.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Cherub_plaque_Louvre_MRR245.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "632"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Islam"
+            },
+            "text": {
+                "headline": "Death of Muhammad",
+                "text": "By this point, all of Arabia is under the religion of Islam.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kaaba_at_night.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "632"
+            },
+            "end_date": {
+                "year": "668"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Old_Great_Bulgaria"
+            },
+            "text": {
+                "headline": "Establishment and expansion of Old Great Bulgaria.",
+                "text": "The demise of Old Great Bulgaria lead to the founding of the First Bulgarian Empire and Volga Bulgaria by the sons of Kubrat.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Abubakr%27sreign.png"
+            }
+        },
+        {
+            "start_date": {
+                "year": "632"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Abu_Bakr"
+            },
+            "text": {
+                "headline": "Accession of Abu Bakr as first Caliph.",
+                "text": "Though the period of his caliphate was not long, it included successful invasions of the two most powerful empires of the time.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/St.Oswalds_Heavenfield.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "633"
+            },
+            "end_date": {
+                "year": "634"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Battle_of_Heavenfield"
+            },
+            "text": {
+                "headline": "Battle of Heavenfield.",
+                "text": "Northumbrian army under Oswald defeat Welsh army.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Holy_sepulchre_exterior.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "638"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(636%E2%80%93637)"
+            },
+            "text": {
+                "headline": "Jerusalem captured by the Arab army, mostly Muslims, but with contingents of Syrian Christians.\n",
+                "text": "\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": ""
+            }
+        },
+        {
+            "start_date": {
+                "year": "642"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Battle_of_Nahavand"
+            },
+            "text": {
+                "headline": "Battle of Nahavand. Muslims conquer Persia.\n",
+                "text": "\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Mohammad_adil-Muslim_conquest_of_Egypt.PNG"
+            }
+        },
+        {
+            "start_date": {
+                "year": "643"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Amr_ibn_al-As"
+            },
+            "text": {
+                "headline": "Arab Army led by Amr ibn al-As takes Alexandria.\n",
+                "text": "\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": ""
+            }
+        },
+        {
+            "start_date": {
+                "year": "645"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Soga_clan"
+            },
+            "text": {
+                "headline": "In Japan, the Soga clan falls.",
+                "text": "This initiates a period of imitation of Chinese culture, The Nara period begins a year later.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Balkan_topo_blank.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "650"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Balkans"
+            },
+            "text": {
+                "headline": "Slav occupation of Balkans complete.\n",
+                "text": ""
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Xhichicalco_drenaje_grvp.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": [
+                    "650\n"
+                ]
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Xochicalco"
+            },
+            "text": {
+                "headline": "The city-state Xochicalco is founded by the Olmeca–Xicallanca.\n",
+                "text": "Becomes an important cultural and commercial center.[17]\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Beda_Petersburgiensis_f3v.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "663"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Synod_of_Whitby"
+            },
+            "text": {
+                "headline": "Synod of Whitby.",
+                "text": "Roman Christianity triumphs over Celtic Christianity in England.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%EB%B0%B1%EC%A0%9C_%EA%B8%88%EB%8F%99%EB%8C%80%ED%96%A5%EB%A1%9C.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "668"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Three_Kingdoms_of_Korea"
+            },
+            "text": {
+                "headline": "End of the Three Kingdoms period in Korea.",
+                "text": "Established a Unified Silla which led to the North–South States Period 30 years later.[18]\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Europe_around_650.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "674"
+            },
+            "end_date": {
+                "year": "678"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(674%E2%80%93678)"
+            },
+            "text": {
+                "headline": "First Arab siege of Constantinople.",
+                "text": "First-time Islamic armies defeated, forestalling Islamic conquest of Europe.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Early_Bulgar_Khanate._Zones_of_tribal_control.png"
+            }
+        },
+        {
+            "start_date": {
+                "year": "681"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/First_Bulgarian_Empire"
+            },
+            "text": {
+                "headline": "Establishment of the Bulgarian Empire.",
+                "text": "A country with great influence in European history in the Middle Ages.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Scotland_relief_location_map.jpg"
+            }
+        },
+        {
+            "start_date": {
+                "year": "685"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Battle_of_Dun_Nechtain"
+            },
+            "text": {
+                "headline": "Battle of Dun Nechtain.",
+                "text": "Picts defeat Northumbrians, whose dominance ends.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": ""
+            }
+        },
+        {
+            "start_date": {
+                "year": "687"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Battle_of_Tertry"
+            },
+            "text": {
+                "headline": "Battle of Tertry.",
+                "text": "Established Pepin of Herstal as mayor over the entire realms of Neustria and Austrasia, which further dwindled Merovingian power.\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Carthage_location.png"
+            }
+        },
+        {
+            "start_date": {
+                "year": "698"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/Battle_of_Carthage_(698)"
+            },
+            "text": {
+                "headline": "Arab army takes Carthage.",
+                "text": "End of Byzantine rule in North Africa\n"
+            },
+            "background": {
+                "opacity": "50",
+                "url": ""
+            }
+        },
+        {
+            "start_date": {
+                "year": "698"
+            },
+            "media": {
+                "url": "https://en.wikipedia.org/wiki/North%E2%80%93South_States_Period"
+            },
+            "text": {
+                "headline": "North–South States Period begins in Korea.",
+                "text": "Silla and Balhae coexisted in the south and north of the peninsula, respectively, until 926[19][20]\n"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+<style>
+	html,
+	body {
+			height: 100%;
+			width: 100%;
+			padding: 0px;
+			margin: 0px;
+	}
+</style>
+
+<div id="7th_century"></div>
+<script src="../../js/timeline.js"></script>
+	<script>
+			var timeline = new TL.Timeline('7th_century', '../../json/7th_century.json', {});
+			window.onresize = function (event) { timeline.updateDisplay(); }
+	</script>
