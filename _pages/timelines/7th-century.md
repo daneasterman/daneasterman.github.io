@@ -1,4 +1,4 @@
 ---
 layout: 7th_century
-permalink: times/7th-century/
+permalink: 7th-century/
 ---

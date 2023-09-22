@@ -3,6 +3,19 @@
   {% include head.html %}
   <body>
       {% include nav.html %}
-			{% include timelines/7th_century.html %}
+
+      <style>
+        html,body { height: 100%; width: 100%; padding: 0; margin: 0; }
+        .tl-headline { display: none }
+      </style>
+
+
+    <div id="7th_century"></div>
+    <script src="../../js/timeline.js"></script>
+    <script>
+        var timeline = new TL.Timeline('7th_century', '../../json/7th_century.json', {});
+        window.onresize = function (event) { timeline.updateDisplay(); }
+    </script>
+			
   </body>
 </html>
