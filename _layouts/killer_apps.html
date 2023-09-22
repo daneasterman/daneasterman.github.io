@@ -3,6 +3,7 @@
   {% include head.html %}
   <body>
       {% include nav.html %}
+      
       <style>
         html,body { height: 100%; width: 100%; padding: 0; margin: 0; }
         .tl-headline { display: none }
@@ -10,10 +11,10 @@
       
       <div id="killer_apps"></div>
       <script src="../../js/timeline.js"></script>
-        <script>
-            var timeline = new TL.Timeline('killer_apps', '../../json/killer_apps.json', {});
-            window.onresize = function (event) { timeline.updateDisplay(); }
-        </script>
+      <script>
+          var timeline = new TL.Timeline('killer_apps', '../../json/killer_apps.json', {});
+          window.onresize = function (event) { timeline.updateDisplay(); }
+      </script>
 			
   </body>
 </html>
