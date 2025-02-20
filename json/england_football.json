@@ -1,0 +1,188 @@
+{
+  "title": {
+    "text": {
+      "headline": "A Millennial’s Guide to England Football History",
+      "text": "With England winning their first penalty shootout ever at a World Cup this year, perhaps it is as good a time as any to step back in time and remember some of the heartbreak us millenials have experienced along the way. And what better place to start than that summer of highs and lows - Euro 96..."
+    },
+    "background": {
+      "opacity": "50",
+      "url": "../img/england/shearer-goal.jpg"
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "month": "06",
+        "year": "1996"
+      },
+      "background": {
+        "opacity": "50",
+        "url": "../img/england/southgate-moller.jpg"
+      },
+      "text": {
+        "headline": "Euro 96",
+        "text": "Gareth Southgate (now England manager) mourns his missed penalty moments before Moller slots home to seal the victory for Germany. England are defeated at the semi-finals - the furthest they had been in the competition since losing to Yugoslavia in 1968."
+      }
+    },
+    {
+      "start_date": {
+        "year": "1998",
+        "month": "07"
+      },
+      "background": {
+        "opacity": "50",
+        "url": "../img/england/beckam.jpg"
+      },
+      "text": {
+        "headline": "France 98",
+        "text": "David Beckham is sent off at the World Cup round of 16 game against Argentina. At 2-2, the game eventually goes to penalties. England are once again knocked out after missing twice from the spot. David Beckham is later sent death threats and bullets in the post."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2000",
+        "month": "06"
+      },
+      "background": {
+        "opacity": "50",
+        "url": "../img/england/romania-edited.jpg"
+      },
+      "text": {
+        "headline": "Euro 2000",
+        "text": "England are roundly criticised for failing to qualify from their group after a last minute penalty by Romania in the dying moments of the game."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2002",
+        "month": "07"
+      },
+      "background": {
+        "opacity": "50",
+        "url": "../img/england/ronaldinho-edited2.jpg"
+      },
+      "text": {
+        "headline": "South Korea / Japan 2002",
+        "text": "Ronaldinho celebrates after lobbing England goalkeeper David Seaman with an exceptional long-range free kick, sending England out of the World Cup at the quarter finals. Brazil eventually go on to win the competition."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2004",
+        "month": "06"
+      },
+      "background": {
+        "opacity": "50",
+        "url": "../img/england/portugal-goalkeeper.jpg"
+      },
+      "text": {
+        "headline": "Euro 2004",
+        "text": "Goalkeeper Ricardo saves while not wearing gloves, as England lose again on penalties 6-5 against Portugal in the quarter finals. In a surprise upset the Portugese will stumble at the last hurdle to lose in the finals against a well-organised Greek side."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2006",
+        "month": "07"
+      },
+      "background": {
+        "url": "../img/england/wayne-rooney-edited2.jpg"
+      },
+      "text": {
+        "headline": "World Cup 2006: Germany",
+        "text": "Wayne Rooney is given a straight red card after stamping on Ricardo Carvalho in England's quarter final match against Portugal. Ronaldo (far left) is seen shortly afterwards giving the Portugese bench his infamous wink. England go on to lose to Portgual again on penalties by 3-1."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2008",
+        "month": "06"
+      },
+      "background": {
+        "url": "../img/england/mcclaren.jpg"
+      },
+      "text": {
+        "headline": "Euro 2008",
+        "text": "England fail to qualify for Euro 2008, leading veteran football correspondent Henry Winter to write at the time: 'Outclassed, outfought and outthought'. Steve McClaren (pictured) was sacked in the immediate aftermath."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2010",
+        "month": "06"
+      },
+      "background": {
+        "url": "../img/england/lampard.jpg"
+      },
+      "text": {
+        "headline": "World Cup 2010: South Africa",
+        "text": "England midfielder Frank Lampard reacts in disbelief as his goal is disallowed by the referee. His strike is fired at the underside of the crossbar and is clearly seen to cross the line. The goal would would have levelled the score against Germany 2-2. Germany go on to win 4-1 in the round of 16 match, their widest margin against England at a World Cup."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2012",
+        "month": "06"
+      },
+      "background": {
+        "url": "../img/england/italy.jpg"
+      },
+      "text": {
+        "headline": "Euro 2012",
+        "text": "Italy are jubilant as England are defeated once again on penalties at the quarter final stage. Spain later defeats Italy in the final, securing their place as the first team to win three major competitions in a row - Euro 2008, the 2010 World Cup in South Africa and Euro 2012."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "07"
+      },
+      "background": {
+        "url": "../img/england/suarez.jpg"
+      },
+      "text": {
+        "headline": "World Cup 2014: Brazil",
+        "text": "Luis Suarez of Uruguay heads home to secure his side's 2-1 victory over England. It was the first  England were knocked out in the group stages of a World Cup since 1958. Germany later won the competition, beating Argentina, (which I watched at the German embassy in London)."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2016",
+        "month": "06"
+      },
+      "background": {
+        "url": "../img/england/iceland.jpg"
+      },
+      "text": {
+        "headline": "Euro 2016",
+        "text": "England's defence is in disarray as an Icelandic player attempts a spectacular shot on goal. The round of 16 match ends 2-1 to Iceland after a lacklustre England performance. Legendary former England striker and broadcaster Gary Linekar described the result on Twitter as: 'the worst defeat in our history'."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2018",
+        "month": "07"
+      },
+      "background": {
+        "url": "../img/england/croatia-england.jpg"
+      },
+      "text": {
+        "headline": "World Cup 2018: Russia",
+        "text": "After overcoming Columbia in England's first ever win on penalties at a World Cup, the Three Lions were defeated in the semi-finals, losing 2-1 to Croatia in extra time."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2021",
+        "month": "07"
+      },
+      "background": {
+        "url": "../img/england/england-italy-euros.jpg"
+      },
+      "text": {
+        "headline": "Euro 2020",
+        "text": "Originally meant to take place in summer 2020, the tournament was delayed one year due to the global coronvirus pandemic. England advanced to the finals for the first time in a major competition since 1966, only to lose yet again in penalty shootout heartbreak to Italy. England's success in the tournament was soured by fan attempts to force their way into Wembley stadium during the final and rampant racism on social media."
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+      {% include nav.html %}
+
+		<style>
+			html,body { height: 94%; width: 100%; padding: 0; margin: 0;}
+			.tl-headline { display: none }
+		</style> 
+
+    <div id="human_history"></div>
+    <script src="../../js/timeline.js"></script>
+    <script>      
+      var timeline = new TL.Timeline('human_history', '../../json/human_history.json');
+      window.onresize = function (event) { timeline.updateDisplay(); }        
+            
+    </script>
+			
+  </body>
+</html>

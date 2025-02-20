@@ -28,4 +28,6 @@ function loadImage(id, targetId) {
 document.addEventListener('DOMContentLoaded', function() {
   loadImage('wallpaper');
   loadImage('pictureImage', 'picture');
+  
+  $('.tl-headline-date').eq(0).text("300,000 years ago — 3000 BCE");
 });

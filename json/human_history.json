@@ -1,0 +1,39 @@
+{
+  "events": [
+		{	
+			"start_date": {
+			 "year": "-300000"			 	
+			},			
+			"background": {
+			 "opacity": "40",
+			 "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lascaux_II.jpg/800px-Lascaux_II.jpg"
+			},
+			"text": {
+			 "headline": "Hunter-Gatherer Period"			 
+			},
+			"media": {
+			 "url": "https://en.wikipedia.org/wiki/Human_history#Prehistory_(c._3.3_million_years_ago_%E2%80%93_c._3000_BCE)",
+			 "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lascaux_II.jpg/300px-Lascaux_II.jpg"
+			}
+		 },
+		 {
+			"start_date": {
+			 "year": "-3000"
+			},
+			"end_date": {
+				"year": "500"
+			 },
+			"background": {
+			 "opacity": "50",
+			 "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1200px-All_Gizah_Pyramids.jpg"
+			},
+			"text": {
+			 "headline": "ChatGPT"
+			},
+			"media": {
+			 "url": "https://en.wikipedia.org/wiki/Ancient_history",
+			 "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/300px-All_Gizah_Pyramids.jpg"
+			}
+		 }
+	]
+}

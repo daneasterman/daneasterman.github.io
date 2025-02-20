@@ -1,4 +1,4 @@
 ---
-layout: killer_apps
+layout: timelines/killer_apps
 permalink: killer-apps/
 ---
